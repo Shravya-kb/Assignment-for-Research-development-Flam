@@ -72,5 +72,6 @@ The final score for the L1 distance, as reported by the loss function using the 
 
 The complete Python script used to find these results is included in this repository.
 
-* **File:** `solve_curve_fit.py` (or whatever you named your file)
+* **File:** `solve_curve_fit.py`
+  
 * **Dependencies:** `pandas`, `numpy`, `scipy`, `matplotlib`
